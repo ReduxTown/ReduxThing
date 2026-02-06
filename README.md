@@ -1,0 +1,2 @@
+# ReduxThing
+Terminal Script
