@@ -1,12 +1,13 @@
 {
-  "name": "githubthing",
+  "name": "ReduxThing",
   "version": "1.0.0",
-  "description": "A terminal script runner",
+  "description": "Terminal Script",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js"
   },
-  "author": "YourName",
-  "license": "MIT"
+  "author": "ReduxTown",
+  "license": "MIT",
+  "dependencies": {}
 }
