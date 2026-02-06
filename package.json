@@ -1,0 +1,12 @@
+{
+  "name": "githubthing",
+  "version": "1.0.0",
+  "description": "A terminal script runner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
