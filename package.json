@@ -1,13 +1,13 @@
 {
-  "name": "ReduxThing",
+  "name": "reduxthing",
   "version": "1.0.0",
-  "description": "Terminal Script",
+  "description": "Terminal username scanner",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "start": "node index.js"
   },
-  "author": "ReduxTown",
-  "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
